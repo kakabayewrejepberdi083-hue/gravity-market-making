@@ -1,69 +1,52 @@
 # gravity-market-making
 Modern responsive crypto landing page built with HTML and CSS.
-# 🚀 Crypto Trading Landing Page
+# 🚀 Gravity Market Making - Landing Page
 
-**🔗 Live Demo:**  https://kakabayewrejepberdi083-hue.github.io/gravity-market-making/
-
----
-
-This is a modern, high-performance landing page...
-
-# 🚀 Crypto Trading Landing Page
-
-This is a modern, high-performance landing page for a quantitative crypto trading platform, developed based on a professional Figma design.
-
----
-
-## 📋 Table of Contents
-* [Overview](#-overview)
-* [Features](#-features)
-* [Technologies Used](#-technologies-used)
-* [Folder Structure](#-folder-structure)
-* [Getting Started](#-getting-started)
+**🔗 Live Demo:** [https://kakabayewrejepberdi083-hue.github.io/gravity-market-making/](https://kakabayewrejepberdi083-hue.github.io/gravity-market-making/)
 
 ---
 
 ## 🔍 Overview
-This project showcases a landing page for a proprietary automated trading software. It highlights 24/7 liquidity services across 170+ crypto assets and 25+ centralized exchanges. The focus was on translating a complex Figma design into clean, maintainable, and semantic code.
+This is a professional landing page for **Gravity**, a proprietary automated quantitative trading software. The project provides a 24/7 liquidity solution across 170+ crypto assets and 25+ centralized spot and derivative exchanges. It was developed based on a high-fidelity Figma design.
 
 ---
 
 ## ✨ Features
-* **Pixel Perfect Design:** Faithful implementation of the Figma source.
-* **BEM Methodology:** Used Block-Element-Modifier naming convention for scalable and organized CSS.
-* **Modern UI Elements:** Includes glassmorphism effects and glowing backgrounds.
-* **Fully Responsive:** Optimized for various screen sizes (Mobile, Tablet, Desktop).
+* **Pixel Perfect Design:** Precise implementation of the original Figma layout.
+* **Modern UI/UX:** Features glassmorphism effects, gradient backgrounds, and a clean dark-themed interface.
+* **BEM Methodology:** Organized CSS structure using Block-Element-Modifier naming (e.g., `header__link`, `hero__title`).
+* **Responsive Layout:** Optimized for a seamless experience across all devices.
 
 ---
 
 ## 🛠 Technologies Used
-* **HTML5:** Semantic markup for better SEO and accessibility.
-* **CSS3:** Advanced styling using Flexbox, CSS Grid, and custom properties.
-* **Image Assets:** Optimized SVG and PNG assets for fast loading times.
+* **HTML5:** Semantic and structured markup.
+* **CSS3:** Advanced layouts using Flexbox, CSS Grid, and custom animations.
+* **SVG/PNG Assets:** High-quality optimized graphics for crypto logos and UI elements.
 
 ---
 
 ## 📂 Folder Structure
 ```bash
 ├── images/          # UI icons, backgrounds, and crypto logos
-├── styles/          # CSS files (background.css, style.css)
-├── index.html       # Main landing page structure
+├── styles/          # CSS stylesheets (background.css, style.css)
+├── index.html       # Main HTML document
 └── README.md        # Project documentation
 ```
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Installation & Usage
 
-To view the project locally:
+To run this project locally:
 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com
    ```
-2. **Navigate to the directory:**
+2. **Navigate to the folder:**
    ```bash
-   cd figma-firsrt-project
+   cd gravity-market-making
    ```
-3. **Open the project:**
-   Simply open `index.html` in your favorite web browser.
+3. **Open the site:**
+   Simply open `index.html` in any modern web browser.
