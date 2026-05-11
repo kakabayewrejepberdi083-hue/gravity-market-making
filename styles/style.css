@@ -114,7 +114,7 @@ body {
   margin-top: 31px;
 }
 
-.hero__button {
+.hero__link{
   display: inline-block;
   background: linear-gradient(to right, #665DCD, #5FA4E6, #D2AB67);
   color: white;
@@ -126,7 +126,7 @@ body {
   margin-top: 41px;
 }
 
-.hero__button:hover {
+.hero__link:hover {
   background: linear-gradient(to right, #D2AB67, #5FA4E6, #665DCD);
 }
 
@@ -408,7 +408,7 @@ body {
   white-space: nowrap;
   align-items: center;
   text-decoration: none;
-  color: #cecccc;
+  color: #d6d4d4;
   font-family: inherit;
   font-size: 18px;
   margin-top: 70px;
@@ -424,7 +424,7 @@ body {
   background-position: center;
 }
 .exchange-market__link:hover{
-  color: white;
+  color: rgb(255, 255, 255);
 }
 .exchange-market__link-text{
   margin-right: 9px;
@@ -441,7 +441,7 @@ body {
 .partners__title{
   position: absolute;
   opacity: 1;
-  z-index: 3;
+  z-index: 4;
   top: 720px;
   left: 220px;
   font-family: 'Inter', sans-serif;
@@ -592,7 +592,7 @@ body {
 }
 .careers__title{
   position: relative;
-  z-index: 3;
+  z-index: 4;
   left: 100px;
   font-size: 53px;
   line-height: 78px;
@@ -656,7 +656,7 @@ body {
 }
 .contact__description{
   position: relative;
-  z-index: 3;
+  z-index: 4;
   max-width: 520px;
   margin: 0 auto;
 }
@@ -672,7 +672,7 @@ body {
   align-items: center;
   justify-content: center;
 }
-.contact__button {
+.contact__link{
   display: inline-block;
   background: linear-gradient(to right, #665DCD, #5FA4E6, #D2AB67);
   color: white;
@@ -684,7 +684,7 @@ body {
   margin-top: 41px;
 }
 
-.contact__button:hover {
+.contact__link:hover {
   background: linear-gradient(to right, #D2AB67, #5FA4E6, #665DCD);
 }
 
