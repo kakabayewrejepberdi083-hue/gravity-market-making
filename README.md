@@ -2,7 +2,9 @@
 Modern responsive crypto landing page built with HTML and CSS.
 # 🚀 Gravity Market Making - Landing Page
 
-**🔗 Live Demo:** [https://kakabayewrejepberdi083-hue.github.io/gravity-market-making/](https://kakabayewrejepberdi083-hue.github.io/gravity-market-making/)
+## 🌐 Live Demo
+
+🔗 [Open Live Site](https://kakabayewrejepberdi083-hue.github.io/gravity-market-making/)
 
 ---
 
